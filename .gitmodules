@@ -1,3 +1,6 @@
 [submodule "submodules/popSTR-data"]
 	path = submodules/popSTR-data
 	url = ../../h-2/popSTR-data
+[submodule "submodules/seqan"]
+	path = submodules/seqan
+	url = ../../seqan/seqan
