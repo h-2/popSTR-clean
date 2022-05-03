@@ -1,0 +1,3 @@
+[submodule "submodules/popSTR-data"]
+	path = submodules/popSTR-data
+	url = ../../h-2/popSTR-data
