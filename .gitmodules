@@ -4,3 +4,6 @@
 [submodule "submodules/seqan"]
 	path = submodules/seqan
 	url = ../../seqan/seqan
+[submodule "submodules/liblinear"]
+	path = submodules/liblinear
+	url = ../../cjlin1/liblinear
